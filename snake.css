@@ -1,0 +1,33 @@
+body {
+    font-family: poppins;
+    background: black
+}
+
+canvas {
+    margin-top: 50px;
+}
+
+.score {
+    color: white;
+    position: absolute;
+    top: 20px;
+}
+
+.tip {
+    color: white;
+    position: absolute;
+    top: 20px;
+    left: 700px;
+    z-index: 3;
+    font-size: 25px;
+}
+
+
+.instruction {
+    color: white;
+    z-index: 3;
+    font-size: 62px;
+    position: absolute;
+    top: 293px;
+    left: 189px;
+}
