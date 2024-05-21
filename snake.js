@@ -353,7 +353,7 @@ let gameLoop = setInterval(() => {
             changeDirection(snake.head.direction)
         }
     }
-}, 90)
+}, 200)
 
 
 addEventListener('keyup', e => {
